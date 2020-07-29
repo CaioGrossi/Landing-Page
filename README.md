@@ -6,6 +6,7 @@ landing page do curso usando essa API
 ## Estudado
 
 * NextJS
+* TypeScript
 * GraphQL
 * Strapi
 * Heroku
